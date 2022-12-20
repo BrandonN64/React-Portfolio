@@ -65,17 +65,20 @@ let resumeData = {
       {
         "name":"BluFlix",
         "description":"A website that was made to show random IMDB Movies",
-        "imgurl":"images/bluflix.png"
+        "imgurl":"images/bluflix.png",
+        "link":"https://brandonn64.github.io/Project-1-BluFlix-/"
       },
       {
         "name":"Flutter",
         "description":"A online social media site",
-        "imgurl":"images/flutter.png"
+        "imgurl":"images/flutter.png",
+        "link":"https://safe-reaches-80052.herokuapp.com/"
       },
       {
         "name":"Tough Decisions",
         "description":"An online multiplayer game",  
-        "imgurl":"images/toughdecisions.png"
+        "imgurl":"images/toughdecisions.png",
+        "link":"http://toughdecisions.herokuapp.com/"
       },
     ],
   }
